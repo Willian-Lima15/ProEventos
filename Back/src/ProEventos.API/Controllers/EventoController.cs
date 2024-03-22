@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using ProEventos.API.Models;
 
 namespace ProEventos.API.Controllers
 {
@@ -19,9 +20,11 @@ namespace ProEventos.API.Controllers
         }
 
         [HttpGet]
-        public string Get()
+        public Evento Get()
         {
-           return "value";
+           return new Evento(){
+            
+           };
         }
     }
 }
