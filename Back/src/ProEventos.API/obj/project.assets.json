@@ -1299,11 +1299,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+      "projectUniqueName": "C:\\Dev\\ProEventos\\back\\src\\proeventos.api\\ProEventos.API.csproj",
       "projectName": "ProEventos.API",
-      "projectPath": "C:\\Dev\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+      "projectPath": "C:\\Dev\\ProEventos\\back\\src\\proeventos.api\\ProEventos.API.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\ProEventos\\Back\\src\\ProEventos.API\\obj\\",
+      "outputPath": "C:\\Dev\\ProEventos\\back\\src\\proeventos.api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
