@@ -1,0 +1,15 @@
+C:\Dev\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.deps.json
+C:\Dev\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\Dev\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ref\ProEventos.Persistence.dll
+C:\Dev\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.pdb
+C:\Dev\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.AssemblyReference.cache
+C:\Dev\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.AssemblyInfoInputs.cache
+C:\Dev\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.AssemblyInfo.cs
+C:\Dev\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.CoreCompileInputs.cache
+C:\Dev\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.dll
+C:\Dev\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ref\ProEventos.Persistence.dll
+C:\Dev\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.pdb
+C:\Dev\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\Dev\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\Dev\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.CopyComplete
