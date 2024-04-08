@@ -13,3 +13,6 @@ C:\Dev\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Pe
 C:\Dev\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Domain.dll
 C:\Dev\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Domain.pdb
 C:\Dev\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.CopyComplete
+C:\Dev\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.runtimeconfig.json
+C:\Dev\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.runtimeconfig.dev.json
+C:\Dev\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.genruntimeconfig.cache

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\ProEventos\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
+      "projectUniqueName": "C:\\Dev\\ProEventos\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
       "projectName": "ProEventos.Domain",
-      "projectPath": "C:\\Dev\\ProEventos\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
+      "projectPath": "C:\\Dev\\ProEventos\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\ProEventos\\Back\\src\\ProEventos.Domain\\obj\\",
+      "outputPath": "C:\\Dev\\ProEventos\\back\\src\\ProEventos.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,11 +45,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,8 +56,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -71,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }
