@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YuBv16Op8rihTZNO41F3epqwVPFK6FmVR2Ehw4WnvKoReRnuCZKFAPljfMd5B6v9X94uLT7UBzPQi8+K6OE8dg==",
+  "dgSpecHash": "p8+/wlfyqEsh3Yjp+7cGhAuRY5dBFLbgVSDezHNoKMKLAQV/UgIoA8r7oK95YXWdWc2xkyiLYUIHe9ngf/JXBw==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\ProEventos\\back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj",
+  "projectFilePath": "C:\\Dev\\ProEventos\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
