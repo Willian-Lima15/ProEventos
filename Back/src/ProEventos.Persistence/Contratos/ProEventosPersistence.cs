@@ -5,7 +5,7 @@ using ProEventos.Domain;
 
 namespace ProEventos.Persistence
 {
-    public class ProEventosPersistence : IProEventosPersistence
+    public class ProEventosPersistence : IGeralPersist
     {
         private readonly ProEventosContext _context;
         public ProEventosPersistence(ProEventosContext context)
@@ -137,10 +137,5 @@ namespace ProEventos.Persistence
 
             return await query.FirstOrDefaultAsync();
         }
-
-        // Task<Evento[]> IProEventosPersistence.GetAllEventosByIdAsync(int EventoId, bool includePalestrantes)
-        // {
-        //     throw new System.NotImplementedException();
-        // }
     }
 }
