@@ -10,10 +10,8 @@ namespace ProEventos.Persistence
         private readonly ProEventosContext _context;
         public ProEventosPersistence(ProEventosContext context)
         {
-            _context = context;
-            
+            _context = context;            
         }
-
         public void Add<T>(T entity) where T : class
         {
             _context.Add(entity);
